@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.security.entity.User.java&apos; to &apos;Patient.java&apos;&#x0D;&#x0A;- Original project: &apos;Security_Management&apos;&#x0D;&#x0A;- Original element: &apos;com.security.entity.User.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.security.entity.Patient.java&apos;" description="Rename compilation unit &apos;User.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.security.entity{User.java" name="Patient.java" references="false" stamp="1700056251331" version="1.0"/>
+</session>
